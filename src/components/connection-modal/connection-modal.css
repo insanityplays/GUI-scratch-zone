@@ -6,11 +6,11 @@
 }
 
 .header {
-    background-color: $pen-primary;
+    background-color: ##141414;
 }
 
 .body {
-    background: $ui-white;
+    background: $ui-black;
 }
 
 .label {
@@ -105,7 +105,7 @@
 .signal-bar {
     width: 4px;
     border-radius: 4px;
-    background-color: #DBDBDB;
+    background-color: #141414;
 }
 
 .signal-bar:nth-of-type(1) { height: 25%; }
